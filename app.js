@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 //MIDDLEWARES: A function that executes when a spacific route is hit
 // Follows 
 /*app.use('/posts', () => {
-    console.log("this is a middleware running!");
+        console.log("this is a middleware running!");
 })
 */
 
